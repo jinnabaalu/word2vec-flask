@@ -6,6 +6,8 @@
 wget http://magnitude.plasticity.ai/word2vec/GoogleNews-vectors-negative300.magnitude
 ```
 
+-  Run the app with `python manage.py`
+
 ## Run as a docker container
 
 - Create the docker imagee with ` docker build -t flask-word-2-vec:latest .`
