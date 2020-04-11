@@ -1,0 +1,6 @@
+version: "3.7"
+services:
+    image: flask-word-2-vec:latest
+    ports: ["8000:8000"]
+    volumes:
+        - 
